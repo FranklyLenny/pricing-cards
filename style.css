@@ -337,6 +337,13 @@ h3 {
   .quote {
     padding: 30px;
     width: 100%;
+    position: relative;
+  }
+
+  .quote i {
+    font-size: 1.7rem;
+    top: 15px;
+    left: 15px;
   }
 }
 
